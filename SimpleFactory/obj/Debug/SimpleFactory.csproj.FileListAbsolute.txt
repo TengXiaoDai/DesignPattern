@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UML\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\SimpleFactory\bin\Debug\SimpleFactory.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\SimpleFactory\bin\Debug\SimpleFactory.pdb
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\SimpleFactory\obj\Debug\SimpleFactory.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\SimpleFactory\obj\Debug\SimpleFactory.pdb
