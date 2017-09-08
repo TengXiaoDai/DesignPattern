@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyModel", "StrategyModel\StrategyModel.csproj", "{2998A301-CA0B-4501-A8B5-29C87953D198}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecorationModel", "DecorationModel\DecorationModel.csproj", "{343B7276-97C8-469B-A781-578263CACC76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2998A301-CA0B-4501-A8B5-29C87953D198}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2998A301-CA0B-4501-A8B5-29C87953D198}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2998A301-CA0B-4501-A8B5-29C87953D198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343B7276-97C8-469B-A781-578263CACC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343B7276-97C8-469B-A781-578263CACC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343B7276-97C8-469B-A781-578263CACC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343B7276-97C8-469B-A781-578263CACC76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,11 @@ namespace DecorationModel
     {
         static void Main(string[] args)
         {
-
+            ApplePhone Template = new ApplePhone();
+            Accessories a=new Accessories();
+            a.DecoratorObj(Template);
+            a.Print();
+            Console.ReadKey();
         }
     }
 }

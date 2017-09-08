@@ -1,1 +1,6 @@
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\DecorationModel\bin\Debug\DecorationModel.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\DecorationModel\bin\Debug\DecorationModel.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\DecorationModel\bin\Debug\DecorationModel.pdb
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\DecorationModel\obj\Debug\DecorationModel.csprojResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\DecorationModel\obj\Debug\DecorationModel.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\DecorationModel\obj\Debug\DecorationModel.pdb
