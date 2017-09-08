@@ -1,0 +1,6 @@
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\ProxyModel\bin\Debug\ProxyModel.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\ProxyModel\bin\Debug\ProxyModel.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\ProxyModel\bin\Debug\ProxyModel.pdb
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\ProxyModel\obj\Debug\ProxyModel.csprojResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\ProxyModel\obj\Debug\ProxyModel.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\ProxyModel\obj\Debug\ProxyModel.pdb
