@@ -1,0 +1,6 @@
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\PrototypeModel\bin\Debug\PrototypeModel.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\UML\PrototypeModel\bin\Debug\PrototypeModel.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\UML\PrototypeModel\bin\Debug\PrototypeModel.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\UML\PrototypeModel\obj\Debug\PrototypeModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\UML\PrototypeModel\obj\Debug\PrototypeModel.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\UML\PrototypeModel\obj\Debug\PrototypeModel.pdb
