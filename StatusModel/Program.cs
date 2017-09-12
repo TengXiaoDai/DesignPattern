@@ -11,7 +11,7 @@ namespace StatusModel
         static void Main(string[] args)
         {
             //状态模式
-            Context c = new Context(new ConcreteState());
+            Context c = new Context(new ConcreteStateA());
             c.Request();
             c.Request();
             c.Request();

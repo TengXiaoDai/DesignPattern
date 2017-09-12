@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace StatusModel
 {
-    public class ConcreteStateA : State
+    class ConcreteStateB : State
     {
         public override void Handle(Context context)
         {
-            context.State = new ConcreteStateB();
+            context.State = new ConcreteStateA();
         }
     }
 }
