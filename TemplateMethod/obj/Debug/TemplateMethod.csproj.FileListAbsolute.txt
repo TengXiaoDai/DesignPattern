@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\TemplateMethod\obj\Debug\TemplateMethod.pdb
