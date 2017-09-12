@@ -10,7 +10,8 @@ namespace BuilderModel
     {
         static void Main(string[] args)
         {
-            //
+            //建造者模式
+
         }
     }
 }
