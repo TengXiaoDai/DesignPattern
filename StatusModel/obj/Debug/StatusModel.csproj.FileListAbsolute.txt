@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StatusModel\bin\Debug\StatusModel.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StatusModel\bin\Debug\StatusModel.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StatusModel\bin\Debug\StatusModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StatusModel\obj\Debug\StatusModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StatusModel\obj\Debug\StatusModel.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StatusModel\obj\Debug\StatusModel.pdb
