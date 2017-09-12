@@ -12,10 +12,5 @@ namespace PrototypeModel
         {
            
         }
-
-        public override ProtoType Clone()
-        {
-            return (ProtoType)this.MemberwiseClone();
-        }
     }
 }
