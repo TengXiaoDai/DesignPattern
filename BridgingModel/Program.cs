@@ -17,6 +17,7 @@ namespace BridgingModel
 
             MacCompater Mac = new MacCompater(new WatchFunction());
             Mac.Run();
+
         }
     }
 }
