@@ -11,7 +11,8 @@ namespace AdapterModel
         static void Main(string[] args)
         {
             //适配器模式
-
+            Target traget = new Adapter();
+            traget.Request();
         }
     }
 }
