@@ -15,7 +15,11 @@ namespace StatusModel
             //c.Request();
             //c.Request();
             //c.Request();
-         
+            LoginContext context = new LoginContext(new FailState());
+            context.SetValue("1234");
+            context.Request();
+            context.SetValue("234");
+            context.Request();
         }
     }
 }
