@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemorandumModel", "Memorand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{F4AA7526-2821-4430-A77D-8053F9908190}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgingModel", "BridgingModel\BridgingModel.csproj", "{724F2E1C-E6A4-4EAF-982C-F32D3B423305}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F4AA7526-2821-4430-A77D-8053F9908190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4AA7526-2821-4430-A77D-8053F9908190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4AA7526-2821-4430-A77D-8053F9908190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
