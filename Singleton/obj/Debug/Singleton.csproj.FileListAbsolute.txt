@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\Singleton\bin\Debug\Singleton.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\Singleton\obj\Debug\Singleton.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\Singleton\obj\Debug\Singleton.pdb

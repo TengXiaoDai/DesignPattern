@@ -20,7 +20,7 @@ namespace Singleton
             MultiSingle.Create();
 
             //在C#与公共语言运行库提供了一种"静态初始化"，这种方法不需要开发人员显示的编写线程安全代码
-            SingleTon sig=SingleTon.GetObj();
+            SingleTon sig1=SingleTon.GetObj();
         }
     }
 }
