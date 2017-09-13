@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderModel", "BuilderMode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusModel", "StatusModel\StatusModel.csproj", "{55BF0527-AF01-408E-9A28-675694F21119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterModel", "AdapterModel\AdapterModel.csproj", "{57AB1C95-4797-4019-AFE3-58F7ECAD3DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemorandumModel", "MemorandumModel\MemorandumModel.csproj", "{AE236871-3B31-403E-9788-3643CF0C4E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{55BF0527-AF01-408E-9A28-675694F21119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BF0527-AF01-408E-9A28-675694F21119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BF0527-AF01-408E-9A28-675694F21119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AB1C95-4797-4019-AFE3-58F7ECAD3DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AB1C95-4797-4019-AFE3-58F7ECAD3DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AB1C95-4797-4019-AFE3-58F7ECAD3DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AB1C95-4797-4019-AFE3-58F7ECAD3DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE236871-3B31-403E-9788-3643CF0C4E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE236871-3B31-403E-9788-3643CF0C4E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE236871-3B31-403E-9788-3643CF0C4E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE236871-3B31-403E-9788-3643CF0C4E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
