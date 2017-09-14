@@ -1,6 +1,5 @@
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\FactoryMethod\bin\Debug\FactoryMethod.exe.config
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\FactoryMethod\bin\Debug\FactoryMethod.exe
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\FactoryMethod\bin\Debug\FactoryMethod.pdb
-c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\FactoryMethod\obj\Debug\FactoryMethod.exe
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\FactoryMethod\obj\Debug\FactoryMethod.pdb

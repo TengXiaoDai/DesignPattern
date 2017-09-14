@@ -1,6 +1,5 @@
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\BuilderModel\bin\Debug\BuilderModel.exe.config
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\BuilderModel\bin\Debug\BuilderModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\BuilderModel\bin\Debug\BuilderModel.pdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\BuilderModel\obj\Debug\BuilderModel.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\BuilderModel\obj\Debug\BuilderModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\BuilderModel\obj\Debug\BuilderModel.pdb

@@ -3,4 +3,3 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\MemorandumModel
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\MemorandumModel\bin\Debug\MemorandumModel.pdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\MemorandumModel\obj\Debug\MemorandumModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\MemorandumModel\obj\Debug\MemorandumModel.pdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\MemorandumModel\obj\Debug\MemorandumModel.csprojResolveAssemblyReference.cache

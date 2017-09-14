@@ -1,6 +1,5 @@
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AppearanceModel\bin\Debug\AppearanceModel.exe.config
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AppearanceModel\bin\Debug\AppearanceModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AppearanceModel\bin\Debug\AppearanceModel.pdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AppearanceModel\obj\Debug\AppearanceModel.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AppearanceModel\obj\Debug\AppearanceModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AppearanceModel\obj\Debug\AppearanceModel.pdb

@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="Accessories.cs" />
     <Compile Include="ApplePhone.cs" />
+    <Compile Include="CompaterDemo\Assessories.cs" />
+    <Compile Include="CompaterDemo\Compater.cs" />
+    <Compile Include="CompaterDemo\Decoration.cs" />
+    <Compile Include="CompaterDemo\ProgrammeCompater.cs" />
     <Compile Include="Decorator.cs" />
     <Compile Include="Phone.cs" />
     <Compile Include="Program.cs" />

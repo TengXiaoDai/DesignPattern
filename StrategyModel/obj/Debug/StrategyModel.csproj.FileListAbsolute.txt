@@ -1,6 +1,5 @@
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StrategyModel\bin\Debug\StrategyModel.exe.config
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StrategyModel\bin\Debug\StrategyModel.exe
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StrategyModel\bin\Debug\StrategyModel.pdb
-c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StrategyModel\obj\Debug\StrategyModel.csprojResolveAssemblyReference.cache
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StrategyModel\obj\Debug\StrategyModel.exe
 c:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\StrategyModel\obj\Debug\StrategyModel.pdb

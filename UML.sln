@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgingModel", "BridgingModel\BridgingModel.csproj", "{724F2E1C-E6A4-4EAF-982C-F32D3B423305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgencyModel", "AgencyModel\AgencyModel.csproj", "{70351B8E-7075-43A0-AA31-26F6D72EA9BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{724F2E1C-E6A4-4EAF-982C-F32D3B423305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70351B8E-7075-43A0-AA31-26F6D72EA9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70351B8E-7075-43A0-AA31-26F6D72EA9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70351B8E-7075-43A0-AA31-26F6D72EA9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70351B8E-7075-43A0-AA31-26F6D72EA9BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

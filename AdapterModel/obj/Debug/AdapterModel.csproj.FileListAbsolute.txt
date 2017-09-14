@@ -1,6 +1,5 @@
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AdapterModel\bin\Debug\AdapterModel.exe.config
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AdapterModel\bin\Debug\AdapterModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AdapterModel\bin\Debug\AdapterModel.pdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AdapterModel\obj\Debug\AdapterModel.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AdapterModel\obj\Debug\AdapterModel.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UML\AdapterModel\obj\Debug\AdapterModel.pdb
