@@ -46,6 +46,9 @@
     <Compile Include="ConcreteState.cs" />
     <Compile Include="ConcreteStateB.cs" />
     <Compile Include="Context.cs" />
+    <Compile Include="Demo\DayContext.cs" />
+    <Compile Include="Demo\DayState.cs" />
+    <Compile Include="Demo\Monthing.cs" />
     <Compile Include="FailState.cs" />
     <Compile Include="ForenoonState.cs" />
     <Compile Include="LightContext.cs" />

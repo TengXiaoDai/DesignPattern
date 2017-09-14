@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StatusModel.Demo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,10 +16,14 @@ namespace StatusModel
             //c.Request();
             //c.Request();
             //c.Request();
-            LoginContext context = new LoginContext(new FailState());
-            context.SetValue("1234");
-            context.Request();
-            context.SetValue("234");
+            //LoginContext context = new LoginContext(new FailState());
+            //context.SetValue("1234");
+            //context.Request();
+            //context.SetValue("234");
+            //context.Request();
+
+            DayContext context = new DayContext(new Monthing());
+            context.SetVal(15);
             context.Request();
         }
     }
