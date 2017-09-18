@@ -31,9 +31,11 @@ namespace PrototypeModel
             //我们查看MSDN会发现，MenberwiseClone()方法是浅复制:也就是说他只能复制该方法中值类型数据,而引用类型不会被复制下来
             //那我们如何来实现深复制呢？我们需要在复制的该类型里面的引用类型加入被克隆标签。在该类型复制的时候我们将他给复制完成。
             //这样我们就完成了深复制。
-            CopyFather copy = new CopyFather("张腾",19);
-            copy.Show();
-            CopyFather copyContext=copy.Clone() as CopyFather;
+            CopyFather copyOne = new CopyFather("张腾",19);
+            copyOne.Show();
+            CopyFather copyTwo = new CopyFather("张三", 20);
+            copyTwo.Show();
+            CopyFather copyContext= copyOne.Clone() as CopyFather;
             copyContext.Show();
         }
     }

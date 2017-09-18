@@ -15,7 +15,7 @@ namespace Singleton
             //Context contex = new Context();显然我们这里是不能编译通过的
              Context context=Context.CreateInstence();//这样我们就实现了单例模式,该对象在实例化的过程中创建出来的对象和之前的是一样的。但是这种存在着弊病
             //那就是在单线程的时候我们确实能够保证对象的唯一,但是针对于多线程我们并不能保证它是唯一的。
-
+             
             //多线程下的单例模式(lock)
             MultiSingle.Create();
 

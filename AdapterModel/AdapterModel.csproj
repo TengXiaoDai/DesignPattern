@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Adaptee.cs" />
     <Compile Include="Adapter.cs" />
+    <Compile Include="MangerAdaptee.cs" />
+    <Compile Include="MangerAdapter.cs" />
+    <Compile Include="MangerTarget.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Target.cs" />

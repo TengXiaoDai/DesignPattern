@@ -59,6 +59,10 @@
     <Compile Include="LoginState.cs" />
     <Compile Include="MorningState.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Project\WorkContexted.cs" />
+    <Compile Include="Project\WorkedState.cs" />
+    <Compile Include="Project\WorkingState.cs" />
+    <Compile Include="Project\WorkStates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="State.cs" />
     <Compile Include="SuccessState.cs" />

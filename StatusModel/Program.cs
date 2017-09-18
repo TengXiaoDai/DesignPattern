@@ -1,4 +1,5 @@
 ﻿using StatusModel.Demo;
+using StatusModel.Project;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,8 +23,12 @@ namespace StatusModel
             //context.SetValue("234");
             //context.Request();
 
-            DayContext context = new DayContext(new Monthing());
-            context.SetVal(15);
+            //DayContext context = new DayContext(new Monthing());
+            //context.SetVal(15);
+            //context.Request();
+
+            WorkContexted context = new WorkContexted(new WorkingState());
+            context.SetValue(9);
             context.Request();
         }
     }

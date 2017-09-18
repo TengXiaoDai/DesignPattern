@@ -4,20 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StatusModel
+namespace StatusModel.Project
 {
-   public class WorkContext
+    public class WorkContexted
     {
         public int Hour { get; set; }
-        public WorkState State { get; set; }
-        public WorkContext(WorkState state)
+        public WorkStates State { get; set; }
+        public WorkContexted(WorkStates state)
         {
             this.State = state;
-            this.Hour = 0;
+        }
+        public void SetValue(int hour)
+        {
+            this.Hour = hour;
         }
         public void Request()
         {
-            State.Handler(this);
+            State.Show(this);
         }
     }
 }
